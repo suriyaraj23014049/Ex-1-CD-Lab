@@ -1,5 +1,5 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-# Register Number : 212223230073
+# Register Number : 212223040216
 # Date : 15/04/25
 # AIM :
 ## To write a C program to implement a symbol table.
@@ -80,7 +80,8 @@ int main() {
 
 ```
 # OUTPUT
-![alt text](<Screenshot 2025-04-10 141527.png>)
-![alt text](<Screenshot 2025-04-10 141553.png>)
+![image](https://github.com/user-attachments/assets/73bb883e-1a62-4875-9063-25a2da212205)
+![image](https://github.com/user-attachments/assets/768e7068-a055-4649-8836-2e3fb682db23)
+
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
